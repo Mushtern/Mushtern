@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 <img align="right" alt="animated coding gif" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on [KanbanStar](https://main.d1746lm7fwknsp.amplifyapp.com/)
+- 🔭 I’m currently working on <a href="https://main.d1746lm7fwknsp.amplifyapp.com/" target="_blank">KanbanStar</a>
 
-- 👨‍💻 My latest project is this [Currency Converter](https://lighthearted-banoffee-5dde1f.netlify.app/)
+- 👨‍💻 My latest project is this <a href="https://lighthearted-banoffee-5dde1f.netlify.app/" target="_blank">Currency Converter</a>
 
 - 🌱 I’m currently learning **Data Science and Tailwind CSS**
 
