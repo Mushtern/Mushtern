@@ -7,6 +7,8 @@
 
 - 👨‍💻 My latest project is this <a href="https://lighthearted-banoffee-5dde1f.netlify.app/" target="_blank">Currency Converter</a>
 
+- Also check out this <a href="https://660b0ddc48e1c00edf616c4d--relaxed-halva-9abdec.netlify.app/" target="_blank">Nike Landing Page</a> I made!
+
 - 🌱 I’m currently learning **Data Analysis and Tailwind CSS**
 
 - 📫 Contact me at **franciscotame0@gmail.com**
